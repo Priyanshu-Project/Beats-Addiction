@@ -1,0 +1,3 @@
+Sep 26 2025 17:06:43
+{"type":8192,"message":"version_compare(): Passing null to parameter #2 ($version2) of type string is deprecated","file":"C:\\xampp\\htdocs\\Beats_Addiction\\wp-content\\plugins\\elementor\\core\\experiments\\manager.php","line":129}
+
